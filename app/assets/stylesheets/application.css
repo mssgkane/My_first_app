@@ -11,7 +11,7 @@
  *= require_self
  *= require_tree .
  */
-body { padding-top: 100px; }
-footer { margin-top: 100px; }
-table, td, th { vertical-align: middle !important; border: 1px dotted #A00000;}
-th { border-bottom: 1px solid #DDD !important; }
+body { padding-top: 250px; }
+footer { margin-top: 250px; }
+table, td, th { vertical-align: left !important; border: 3px dotted #A00000;}
+th { border-bottom: 3px solid #DDD !important; }
